@@ -20,6 +20,7 @@ import apiList from "../lib/apiList";
 
 const useStyles = makeStyles((theme) => ({
   body: {
+    backgroundColor: "#AFD5F0",
     height: "inherit",
   },
   popupDialog: {
